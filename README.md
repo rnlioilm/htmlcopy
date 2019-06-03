@@ -6,5 +6,4 @@ Copy the site html
 cd htmlcopy
 python3 htmlco.py
 ```
-URL>  set the target URL　　
-filename> Write the file name
+URL>  set the target URL  filename> Write the file name
