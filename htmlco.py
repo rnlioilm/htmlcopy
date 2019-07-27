@@ -5,7 +5,7 @@
 #htmlco.py free software;you can redistribute it and/or modify
 #Htmlcopy is distributed in the hope that it will be useful,
 #but WITHOUT ANY WARRANTY; without even the implied warranty of
-#Copyright (c) 2019 1ibr4 <twitter@1ibr4  https://twitter.com/1ibr4>
+
 #
 #I made when I was 16
 #
